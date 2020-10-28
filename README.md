@@ -1,4 +1,4 @@
-# What leads to Winning a Baseball Team #
+# What leads to a Winning Baseball Team #
 
 
 ## Overview ##
